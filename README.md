@@ -28,7 +28,7 @@ cd ..
 ./build/main
 ```
 
-- Below is the result in my laptop ():
+- Below is the result in my laptop (Intel Core i5-6200U, 2.30 GHz x 4):
 ```text
 reading matrices... done
 dense rhs, naive, elapsed time: 10.973422 ms
